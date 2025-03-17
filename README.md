@@ -21,9 +21,12 @@ As a **Data Analyst**, I worked on the following:
 
 ## 📊 Data Model & Dashboard Views  
 The project included:  
-- **Data Model Setup**  
+- **Data Model Setup** 
 - **Overall Revenue Analysis**  
 - **Monthly Performance Trends**  
+
+## Data Model
+![image](https://github.com/user-attachments/assets/941722e6-14a7-4381-871d-8a0b4e99ca6d)
 
 ## 🔍 Insights from the Dashboard  
 - **Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
