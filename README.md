@@ -6,7 +6,7 @@ This project was part of the **CodeBasics Resume Challenge**, where I worked on 
 
 🔗 **Links:**  
 - [Challenge Details](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)  
-- [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTdlMDFlMmEtMTVhMy00YjE0LWFmMzEtYTc0NmI5YWFkODU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+- [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDE2MmVmNTMtNTgzNi00ZDQxLWJkODYtMTBmYzYyOWMzZDkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ## 📌 Problem Statement  
 AtliQ Grands, a luxury hotel chain in India, has been **losing market share and revenue** due to ineffective decision-making and rising competition. To regain its position, the management decided to incorporate **Business & Data Intelligence** but lacked an in-house data analytics team.  
