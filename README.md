@@ -29,10 +29,13 @@ The project included:
 ![image](https://github.com/user-attachments/assets/941722e6-14a7-4381-871d-8a0b4e99ca6d)
 
 ## 🔍 Insights from the Dashboard  
-- **Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi**
-- **AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.**
-- **AtliQ Bay has the highest occupancy of 66%**
-- **Week 24 recorded the highest revenue among all, which is 139.6 Million**
-- **Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore**
-- **AtliQ lost around 298 Million in cancellation**
-- **Elite type rooms has the most booking and as well higher cancellation rate**
+- **Atliq Exotica generates the highest revenue (320M) among all properties, followed by Atliq Palace (304M) and Atliq City (286M).**
+- **Atliq Blu has the highest occupancy rate (62.02%), making it the best-performing property in terms of utilization.**
+- **Standard rooms have the highest revenue contribution (18%), while Elite rooms lead with 33%, followed by Premium (27%) and Presidential (22%).**
+- **The highest revenue recorded in a month was 191M in May 2022, with a declining trend in subsequent months.**
+- **Cancellation rate is high at 24.83%, resulting in significant revenue loss.**
+- **Elite rooms have the highest number of bookings (50K), while Presidential rooms have the least (16K).**
+- **Direct online and journey platforms have the highest realization percentage (~70.5%), showing strong customer engagement through these channels.**
+- **Trends show a fluctuating RevPAR and ADR, indicating price volatility and variations in revenue per available room.**
+- **The total number of bookings across all properties is 134,590, with a realization rate of 70.15%.**
+- **TripAdvisor has the lowest realization rate (69.83%), suggesting lower efficiency compared to other booking platforms.**
